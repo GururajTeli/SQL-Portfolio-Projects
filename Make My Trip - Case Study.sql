@@ -43,6 +43,7 @@ INSERT INTO user_table(User_id,Segment) VALUES ('u7','s3');
 INSERT INTO user_table(User_id,Segment) VALUES ('u8','s3');
 INSERT INTO user_table(User_id,Segment) VALUES ('u9','s3');
 INSERT INTO user_table(User_id,Segment) VALUES ('u10','s3');
+----------------------------------------------------------------------------------
 
 -- SQL Platform Used: Microsoft SQL Server
 
