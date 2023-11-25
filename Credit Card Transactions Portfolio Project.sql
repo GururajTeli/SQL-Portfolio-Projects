@@ -1,3 +1,8 @@
+/* SQL Portfolio project - Credit Card Transactions
+
+import the credit_card_transcations.xls file in any sql platform with table name : credit_card_transcations
+write 4-6 queries to explore the dataset and solve below questions */
+
 /* 1- write a query to print top 5 cities with highest spends and their percentage contribution 
 of total credit card spends */
 
