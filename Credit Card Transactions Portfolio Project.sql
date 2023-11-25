@@ -1,5 +1,4 @@
 /* SQL Portfolio project - Credit Card Transactions
-
 import the credit_card_transcations.xls file in any sql platform with table name : credit_card_transcations
 write 4-6 queries to explore the dataset and solve below questions */
 
