@@ -1,4 +1,4 @@
-**Data Analyst Portfolio Project Repository**
+**SQL Portfolio Project Repository**
 
 Welcome to our central repository! 
 
